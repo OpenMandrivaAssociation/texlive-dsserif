@@ -1,6 +1,6 @@
 Name:		texlive-dsserif
 Version:	60898
-Release:	1
+Release:	2
 Summary:	A double-struck serifed font for mathematical use
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dsserif
