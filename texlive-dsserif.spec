@@ -3,7 +3,7 @@ Version:	60898
 Release:	2
 Summary:	A double-struck serifed font for mathematical use
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dsserif
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dsserif
 License:	ofl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dsserif.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dsserif.doc.r%{version}.tar.xz
